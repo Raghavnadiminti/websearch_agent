@@ -1,7 +1,3 @@
-# websearch_agent
-
-
-
 # 🌐 WebSearch Agent
 
 WebSearch Agent is a Python-based automation tool that performs web search and retrieval using search engines like DuckDuckGo. It integrates web scraping and retrieval-augmented generation (RAG) to provide accurate and context-rich information for a given query.
@@ -20,8 +16,8 @@ WebSearch Agent is a Python-based automation tool that performs web search and r
 
 ## 🏗️ Project Structure
 
-'''bash
-.
+```bash
+
 ├── Rag.py              # Implements Retrieval-Augmented Generation logic
 ├── agnet.py            # Core agent controller for orchestration
 ├── backend.py          # Backend integration (possibly for UI or API)
