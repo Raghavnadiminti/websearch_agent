@@ -20,7 +20,7 @@ WebSearch Agent is a Python-based automation tool that performs web search and r
 
 ## 🏗️ Project Structure
 
-```bash
+
 .
 ├── Rag.py              # Implements Retrieval-Augmented Generation logic
 ├── agnet.py            # Core agent controller for orchestration
